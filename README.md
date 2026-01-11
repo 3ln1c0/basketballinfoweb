@@ -17,5 +17,4 @@ To fetch real-time scores and statistics, it uses the **public [ESPN API](https:
 
 ## 🌐 Try the Website
 You can explore the live version of CourtCentral at **[courtcentral.vercel.app](https://courtcentral.vercel.app)**  
-
 If you prefer to test it locally, simply clone the repository and open the index.html file in your browser.
