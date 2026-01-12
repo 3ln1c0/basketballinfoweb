@@ -1,4 +1,4 @@
-# 🏀 CourtCentral
+# 🏀 CourtCentral / BasketballInfo
 
 **CourtCentral** is a modern and elegant web application that lets you follow **NBA results in real time**, showing detailed statistics and profiles of teams, players, and games. It offers a _premium_ design and a smooth, optimized user experience. 
 
